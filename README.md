@@ -1,16 +1,11 @@
 ### 4Mosqueteros
-klk andamo endiamantao mi lidel.........
 
-erdñfhbdkjnbñnb
-medhlkbñdoehb
-errhnehn
-aehçmlgjh
-hkt
-ghnjçròhjr
-dfñĺjnbdjnç
+Entre sombras nace la calma,
+un suspiro pinta el aire,
+y en silencio brota el alma
+con deseos de quedarse.
 
-dknpugnen
-ç
-ehkhùèdńh e
-
-
+El tiempo juega en su danza,
+pero el instante es eterno:
+quien sueña lleva esperanza,
+quien ama guarda un universo.
