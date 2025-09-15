@@ -1,22 +1,22 @@
 # Letras
 ### 4Mosqueteros
 
-En la pantalla nace un mundo,
-de ceros y unos tejido profundo.
-El código late, línea tras línea,
-donde la lógica danza y se alinea.
+El PC arranca y me mira fatal,
+Windows me dice: actualiza ya.
+El Linux sonríe, sudo al compilar,
+y el código explota sin querer andar.
 
-El teclado suena como poesía,
-creando sistemas, dando armonía.
-Un clic, un bucle, una condición,
-la máquina entiende, tú das la razón.
+El bug aparece, saluda feliz,
+“soy tu pesadilla, no voy a salir”.
+El programador llora, reinicia otra vez,
+y el café se enfría, qué clásico es.
 
-Errores que surgen, pruebas sin fin,
-debug eterno, camino sutil.
-Pero al compilar sin fallo el programa,
-brilla en tus ojos la chispa que llama.
+El router se muere, la red se cayó,
+el profe pregunta: “¿qué hiciste, campeón?”.
+Respondo con miedo, temblando en mi ser:
+“solo puse un print… y dejó de correr”.
 
-Entre algoritmos y redes sin fin,
-el arte se oculta en lo que hay dentro de un bin.
-Informática, ciencia y creación,
-donde la mente y el alma hacen conexi
+Así es la vida digital sin piedad,
+entre pantallazos y poca RAM.
+Pero aunque me frustre y quiera huir,
+siempre vuelvo al código… para sufrir.
