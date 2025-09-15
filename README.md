@@ -1,6 +1,5 @@
 ### 4Mosqueteros
 
-
 En la pantalla nace un mundo,
 de ceros y unos tejido profundo.
 El código late, línea tras línea,
