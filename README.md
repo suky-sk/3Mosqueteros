@@ -18,4 +18,4 @@ brilla en tus ojos la chispa que llama.
 Entre algoritmos y redes sin fin,
 el arte se oculta en lo que hay dentro de un bin.
 Informática, ciencia y creación,
-donde la mente y el alma hacen conexión.
+donde la mente y el alma hacen conexi
