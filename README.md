@@ -2,7 +2,7 @@
 
 ### Esto es la rama main
 
-# aportacion de ferran:
+# aportacion de ferran alias "el de betxi":
 1. Abanto
 2. Abrazafarolas
 3. Adufe
