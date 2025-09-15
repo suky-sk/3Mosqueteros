@@ -43,3 +43,6 @@ Dracukeo, el empalador, la culeo, un taladrador
 Le meto el de'o, dice por favor, la caliento, soy un radiador
 Si no tienes los 18, eso es cárcel (no, no, no)
 Si no son mayores de edades, pa' tu casa a ver Pocoyo (Pato)
+
+
+*******************************
