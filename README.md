@@ -1,29 +1,22 @@
 ### 4Mosqueteros
 
 
-klk andamo endiamantao mi lidel dsds
+En la pantalla nace un mundo,
+de ceros y unos tejido profundo.
+El código late, línea tras línea,
+donde la lógica danza y se alinea.
 
-# Bombardear la Moncloa
-# Buen intento Diddy
-dgfsdsag
+El teclado suena como poesía,
+creando sistemas, dando armonía.
+Un clic, un bucle, una condición,
+la máquina entiende, tú das la razón.
 
-sadg
-asdg
-asdgswcaescsdc
+Errores que surgen, pruebas sin fin,
+debug eterno, camino sutil.
+Pero al compilar sin fallo el programa,
+brilla en tus ojos la chispa que llama.
 
-d
-
-
-
-
-d
-d
-d
-dd
-d
-d
-d
-dd
-d
-d
-d
+Entre algoritmos y redes sin fin,
+el arte se oculta en lo que hay dentro de un bin.
+Informática, ciencia y creación,
+donde la mente y el alma hacen conexión.
