@@ -186,7 +186,10 @@
 185. Ríeleches
 186. Robaperas
 187. Sabandija
-188. Sacamuelas
+188. Sacamuelast
+Name	Last commit message
+	Last commit date
+suky-sk
 189. Sanguijuela
 190. Sinentraero
 191. Sinsustancia
