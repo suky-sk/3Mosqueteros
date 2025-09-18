@@ -10,7 +10,7 @@ Un clic, un bucle, una condición,
 la máquina entiende, tú das la razón.
 
 Errores que surgen, pruebas sin fin,
-debug eterno, camino sutil.
+    debug eterno, camino sutil.
 Pero al compilar sin fallo el programa,
 brilla en tus ojos la chispa que llama.
 
