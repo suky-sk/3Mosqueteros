@@ -72,7 +72,8 @@ donde la mente y el alma hacen conexión.
 
 ### Esto es la rama main
 
-# aportacion de ferran alias "el de betxi":
+
+# escrito por adrian alias "bus bus":
 1. Abanto
 2. Abrazafarolas
 3. Adufe
